@@ -1,2 +1,2 @@
 # javascript-calendar
-Calendar display week 
+Calendar display week full js
